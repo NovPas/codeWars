@@ -27,4 +27,6 @@ available = {"sugar": 500, "flour": 2000, "milk": 2000}
 
 print(cakes(recipe, available))
 
+# add for test git LOCAL
+
 # add for test git GITHUB
